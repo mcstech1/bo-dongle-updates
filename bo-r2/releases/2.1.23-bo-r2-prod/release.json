@@ -1,0 +1,10 @@
+{
+  "target": "bo-r2",
+  "version": "2.1.23-bo-r2-prod",
+  "source_commit": "2e265104f7cff1bf9d9c383dedce04c4de00c84d",
+  "source_sha256": "b2eea898d716ec1b342afde4bb59be36bc4186a4d6364a68cfef1fa751eb29be",
+  "hardware_secure_boot": false,
+  "hardware_flash_encryption": false,
+  "size": 2154496,
+  "sha256": "1ddeead966b09c94eaa492b51daa5e82d13120b3447eb9702af8ca329d9031f3"
+}
