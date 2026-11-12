@@ -1,12 +1,12 @@
 {
   "target": "bo-r2",
-  "version": "2.1.23-bo-r2-prod",
-  "source_commit": "2e265104f7cff1bf9d9c383dedce04c4de00c84d",
-  "source_sha256": "b2eea898d716ec1b342afde4bb59be36bc4186a4d6364a68cfef1fa751eb29be",
+  "version": "2.1.24-bo-r2-prod",
+  "source_commit": "03f72d97f7c804de6678f1de5b872e55a3694645",
+  "source_sha256": "3c69f4b1986a302739e422a06a029a5e35257d6f83e5fdebcf81799b8d96ca25",
   "hardware_secure_boot": false,
   "hardware_flash_encryption": false,
-  "size": 2154496,
-  "sha256": "1ddeead966b09c94eaa492b51daa5e82d13120b3447eb9702af8ca329d9031f3",
-  "url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/df63e80625420fb00dca3e6d463f684e1a78ebea/bo-r2/releases/2.1.23-bo-r2-prod/firmware.bin",
-  "source_url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/df63e80625420fb00dca3e6d463f684e1a78ebea/bo-r2/releases/2.1.23-bo-r2-prod/source.tar.gz"
+  "size": 2158592,
+  "sha256": "7335abb122172dcbfa9615b8beb536192259a4d2c2af436a9a36a206a011b4f7",
+  "url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/b3b20890c3cd1bb400380ca50a2a4ccc9b826e34/bo-r2/releases/2.1.24-bo-r2-prod/firmware.bin",
+  "source_url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/b3b20890c3cd1bb400380ca50a2a4ccc9b826e34/bo-r2/releases/2.1.24-bo-r2-prod/source.tar.gz"
 }
