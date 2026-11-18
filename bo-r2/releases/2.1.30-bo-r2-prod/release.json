@@ -1,0 +1,10 @@
+{
+  "target": "bo-r2",
+  "version": "2.1.30-bo-r2-prod",
+  "source_commit": "aca8afbf961469f83f5cc4952603c36bffb19ade",
+  "source_sha256": "102795af7008bf6e7ba10688f08594f42bffdaa7558da557afcb54b01c984708",
+  "hardware_secure_boot": false,
+  "hardware_flash_encryption": false,
+  "size": 2162688,
+  "sha256": "8d419b4957d34b984bd1d71f4b3a147760177c43abe3137b663c2bebcd6e55b6"
+}
