@@ -1,27 +1,12 @@
 {
   "target": "bo-r2",
-  "version": "2.1.29-bo-r2-prod",
-  "source_commit": "240daba53d87fdf38695568e52aa2a27cd6b8c91",
-  "source_sha256": "e4d2435a82a6b7e9e3199b912bfca3951e28dc8c106bf9ffff2d262b2fe3ff39",
+  "version": "2.1.30-bo-r2-prod",
+  "source_commit": "aca8afbf961469f83f5cc4952603c36bffb19ade",
+  "source_sha256": "102795af7008bf6e7ba10688f08594f42bffdaa7558da557afcb54b01c984708",
   "hardware_secure_boot": false,
   "hardware_flash_encryption": false,
   "size": 2162688,
-  "sha256": "9f9a569555167ba8a6bdd7e81216d538bcb9fd8fcf349311c5294a5f5ab53c01",
-  "url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/a9e6092f9cae562f6e33847fae5d8acab45c4c12/bo-r2/releases/2.1.29-bo-r2-prod/firmware.bin",
-  "source_url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/a9e6092f9cae562f6e33847fae5d8acab45c4c12/bo-r2/releases/2.1.29-bo-r2-prod/source.tar.gz",
-  "test": {
-    "target": "bo-r2",
-    "version": "2.1.30-bo-r2-prod",
-    "source_commit": "aca8afbf961469f83f5cc4952603c36bffb19ade",
-    "source_sha256": "102795af7008bf6e7ba10688f08594f42bffdaa7558da557afcb54b01c984708",
-    "hardware_secure_boot": false,
-    "hardware_flash_encryption": false,
-    "size": 2162688,
-    "sha256": "8d419b4957d34b984bd1d71f4b3a147760177c43abe3137b663c2bebcd6e55b6",
-    "url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/850305ad1bf74614433c080298d31e1072ab5deb/bo-r2/releases/2.1.30-bo-r2-prod/firmware.bin",
-    "source_url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/850305ad1bf74614433c080298d31e1072ab5deb/bo-r2/releases/2.1.30-bo-r2-prod/source.tar.gz",
-    "devices": [
-      "3CDC75FDC9C0"
-    ]
-  }
+  "sha256": "8d419b4957d34b984bd1d71f4b3a147760177c43abe3137b663c2bebcd6e55b6",
+  "url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/850305ad1bf74614433c080298d31e1072ab5deb/bo-r2/releases/2.1.30-bo-r2-prod/firmware.bin",
+  "source_url": "https://raw.githubusercontent.com/mcstech1/bo-dongle-updates/850305ad1bf74614433c080298d31e1072ab5deb/bo-r2/releases/2.1.30-bo-r2-prod/source.tar.gz"
 }
